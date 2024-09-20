@@ -230,7 +230,7 @@ div.image-back{
 }
 .text-KMS{
     background-color: #100c20;
-    color: #655b89;
+    color: #a09dab;
     border-radius: 8px;
     padding: 10px;
     text-align: center;
@@ -244,7 +244,7 @@ div.image-back{
 }
 .text-Sho{
     background-color: #282141;
-    color: #8e859e;
+    color: #aea6bd;
     width: 540px;
     height: 288px;
     border-radius: 8px;
@@ -276,9 +276,6 @@ div.image-back{
     color: #00000091;
     font-size: 13px;
 }
-/* .input-inline div{
-    display: inline-block;
-} */
 .inputs{
     width: 101%;
     border-radius: 3px;
@@ -317,9 +314,6 @@ footer{
     font-size: 17px;
     padding: 25px 5px;
 }
-/* .footer{
-    padding: 14px 5px;
-} */
 footer div div{
     padding-top: 8px;
 }
@@ -330,4 +324,3 @@ footer span a{
 footer span a:hover{
     color: #25bbbb;
 }
-
